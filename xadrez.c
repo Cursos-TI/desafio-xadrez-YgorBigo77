@@ -3,9 +3,8 @@
 int main(){
 
     printf("Desafio jogo de Xadrez!\n");
-    printf("Novo comit\n");
-        // Dasafio novato
-
+    
+    
     //Logica do movimento da torre
         int TorreCasa=6;  //quantida de casas a mover-se
         int Torredirecao=1; 
